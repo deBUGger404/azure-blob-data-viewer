@@ -1,0 +1,3 @@
+azure-storage-blob
+streamlit-pdf-viewer
+streamlit
